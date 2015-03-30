@@ -6,7 +6,7 @@ Code-viewer X-module for EDX
 目标描述
 ============
 
-将edx平台与gitlab进行关联
+部署edx平台与gitlab,将edx平台与gitlab进行关联
 
 开发一个EDX的X-module插件，在EDX中实现对大型源代码树的浏览功能，方便EDX的使用者进行源代码阅读和分析。
 
