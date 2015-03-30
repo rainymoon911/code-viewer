@@ -6,7 +6,11 @@ Code-viewer X-module for EDX
 目标描述
 ============
 
-开发一个EDX的X-module插件，在EDX中实现对大型源代码树的浏览功能，方便EDX的使用者进行源代码阅读和分析。即把函数调用图工具集成到EDX中。
+将edx平台与gitlab进行关联
+
+开发一个EDX的X-module插件，在EDX中实现对大型源代码树的浏览功能，方便EDX的使用者进行源代码阅读和分析。
+
+源代码放置在gitlab中
 
 实现思路
 ============
